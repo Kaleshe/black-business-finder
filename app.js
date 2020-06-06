@@ -9,7 +9,7 @@ const server = http.createServer((req, res) => {
        'Content-Type': 'text/html' 
     });
 
-    res.write(files.getFile('header'));
+    console.log(files.getFile('header'));
     res.end();
 });
 
