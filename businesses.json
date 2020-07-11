@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "inspire beauty",
+    "type": "hairdressers",
+    "location": [51.425652, -0.012720]
+  },
+  
+  {
+    "id": 2,
+    "name": "nzeyimana's canvasses",
+    "type": "graphic design",
+    "location": [33.518589, 86.810356]
+  },
+  
+  {
+    "id": 3,
+    "name": "roc visual",
+    "type": "photography",
+    "location": [-20.338890, 57.568081]
+  }
+]
